@@ -1,0 +1,4 @@
+# IMPORTANT: You must manually install Npcap from https://nmap.org/npcap/ for packet sniffing to work on Windows
+scapy
+windows-curses; platform_system=="Windows"
+tk 
